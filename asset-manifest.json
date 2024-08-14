@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/tharan26/Webpage-Using-ReactJS.git/static/css/main.dbb84e1e.css",
+    "main.js": "/tharan26/Webpage-Using-ReactJS.git/static/js/main.51b35f20.js",
+    "index.html": "/tharan26/Webpage-Using-ReactJS.git/index.html",
+    "main.dbb84e1e.css.map": "/tharan26/Webpage-Using-ReactJS.git/static/css/main.dbb84e1e.css.map",
+    "main.51b35f20.js.map": "/tharan26/Webpage-Using-ReactJS.git/static/js/main.51b35f20.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dbb84e1e.css",
+    "static/js/main.51b35f20.js"
+  ]
+}
