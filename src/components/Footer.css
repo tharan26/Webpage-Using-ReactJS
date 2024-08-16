@@ -1,0 +1,35 @@
+.foot2 footer{
+    display: flex;
+    background-color: #f95738;
+    padding: 5px;
+    height: 45px;
+    margin-top: 42px;
+    align-items: center;
+  }
+  
+  .foot2 h3{
+    padding-left: 20px;
+    color: white;
+    font-family: monospace;
+    font-weight: 800;
+    font-style: normal;
+    font-size: x-large;
+  }
+  
+  .foot2 ul{
+    display: flex;
+    position: absolute;
+    left: 90%;
+    transform: translateX(-50%);
+    list-style: none;
+  }
+  
+  .foot2 a{
+    padding: 10px;
+    font-size: 15px;
+    text-decoration: none;
+    color: #f4f1bb;
+    font-family: monospace;
+    font-weight: 400;
+    font-style: normal;
+  }
